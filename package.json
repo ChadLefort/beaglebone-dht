@@ -1,6 +1,6 @@
 {
     "name": "beaglebone-dht",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Reads DHT series of temperature sensors on a Beaglebone Black.",
     "main": "index.js",
     "dependencies": {
